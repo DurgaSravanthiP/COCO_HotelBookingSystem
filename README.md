@@ -4,7 +4,7 @@ A modern, full-featured hotel booking platform built with React and Vite. Browse
 
 ## 🎥 Project Demonstration Video
 
-📹 [Watch Project Demo](https://drive.google.com/drive/u/0/folders/1gzG8lY-xkrIvYFRKYuvaoC2d7FRlTsGI)
+📹 [Watch Project Demo](https://drive.google.com/file/d/1iemh8T7ESFOFqC-2xXDrFisUpStA1701/view?usp=sharing)
 
 ## 💻 Project Code Explanation Video
 
